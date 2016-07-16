@@ -13,6 +13,10 @@
     "insales.ru",
     "theme-uploader"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brainmurder/insales-uploader.git"
+  },
   "license": "MIT",
   "author": "Ivanin Vladimir",
   "devDependencies": {
