@@ -1,0 +1,39 @@
+{
+  "name": "insales-uploader",
+  "version": "0.1.0",
+  "description": "InSales assets manager",
+  "homepage": "https://github.com/brainmurder/insales-uploader",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel --presets es2015 -d dist/ ./lib",
+    "prepublish": "npm run compile || sed -i 's@ \"index.js\"@ \"dist/index.js\"@' package.json"
+  },
+  "keywords": [
+    "insales",
+    "insales.ru",
+    "theme-uploader"
+  ],
+  "license": "MIT",
+  "author": "Ivanin Vladimir",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.2",
+    "babel-preset-es2015": "^6.6.0",
+    "insales": "^1.4.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "chokidar": "^1.6.0",
+    "isbinaryfile": "^3.0.0",
+    "lodash": "^4.13.1",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "promise": "^7.1.1"
+  }
+}
