@@ -1,5 +1,5 @@
 # InSales uploader
-[InSales](http://www.insales.ru/) assets manager.
+Менеджер ассетов для платформы [InSales](http://www.insales.ru/).
 
 ## Установка
 
@@ -41,7 +41,7 @@ InsalesUploader.backup()
 
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
 
---- 
+---
 
 ##Option
 * id, token — необходимо сгенерировать в бэк-офисе: Приложения -> Разработчикам -> Создать новый ключ доступа;
