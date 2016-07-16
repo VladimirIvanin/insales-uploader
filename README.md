@@ -29,13 +29,13 @@ var option = {
 var InsalesUp = new InsalesUploader(option)
 
 // Метод вызывает загрузку темы на компьютер
-InsalesUploader.download()
+InsalesUp.download()
 
 // Метод вызывает отслеживание изменений в файлах
-InsalesUploader.stream()
+InsalesUp.stream()
 
 // Метод вызывает загрузку темы в папку backup
-InsalesUploader.backup()
+InsalesUp.backup()
 
 ```
 
