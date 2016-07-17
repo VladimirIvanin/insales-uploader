@@ -20,9 +20,9 @@ var option = {
   url: 'shop-41324.myinsales.ru',
   theme: '123456',
   http: false,
-  root: 'my-shop'
+  root: 'my-shop',
   update: true,
-  backup: false,
+  backup: false
 }
 
 // Инициализация
