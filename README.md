@@ -40,7 +40,7 @@ InsalesUp.backup()
 ```
 
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
-
+> Удалять и добавлять файлы следует не более 10 за раз, в иных случаях возможны ошибки. (В будущих релизах будет исправлено)
 ---
 
 ##Настройки
@@ -53,5 +53,24 @@ InsalesUp.backup()
 * startBackup — при значении 'true' в папке 'backup' будут сохранятся резервные копии темы.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
+
+### Структура папок
+
+```
+root/
+    |-- assets/
+        |-- fonts/
+        |-- img/
+        |-- js/
+        |-- media/
+        |-- style/
+        |-- svg/
+    |-- backup/
+        |-- 2016-10-15-12-20
+    |-- config/
+    |-- snippets/
+    |-- templates/
+```
+
 
 ![InSales](https://cdn.rawgit.com/brainmurder/insales-uploader/master/insales.png)
