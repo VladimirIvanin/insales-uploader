@@ -52,7 +52,7 @@ InsalesUp.backup()
 * http — если в админ панели нет поддержки https, следует выставить значение - true;
 * root — корнеевая папка для сохранения темы;
 * update — при значении 'true' локальные файлы будут перезаписываться при повторной загрузке;
-* startBackup — при значении 'true' в папке 'backup' будут сохранятся резервные копии темы.
+* startBackup — при значении 'true' во время загрузки темы через метод **download** в папке 'backup' будут сохранятся резервные копии темы.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
