@@ -22,7 +22,7 @@ var option = {
   http: false,
   root: 'my-shop',
   update: true,
-  backup: false
+  startBackup: false
 }
 
 // Инициализация
@@ -50,7 +50,7 @@ InsalesUp.backup()
 * http — если в админ панели нет поддержки https, следует выставить значение - true;
 * root — корнеевая папка для сохранения темы;
 * update — при значении 'true' локальные файлы будут перезаписываться при повторной загрузке;
-* backup — при значении 'true' в папке 'backup' будут сохранятся резервные копии темы.
+* startBackup — при значении 'true' в папке 'backup' будут сохранятся резервные копии темы.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
