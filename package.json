@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.1.1",
+  "version": "0.11.0",
   "description": "InSales assets manager",
   "homepage": "https://github.com/brainmurder/insales-uploader",
   "main": "dist/index.js",
