@@ -6,10 +6,6 @@
 
 — Исправлено уведомление о некорректных файлах.
 
-## [0.12.0](https://github.com/brainmurder/insales-uploader/tree/v0.12.0)
-
-**Fixed bugs:**
-
 — Исправлено создание директорий.
 
 ## [0.11.0](https://github.com/brainmurder/insales-uploader/tree/v0.11.0)
