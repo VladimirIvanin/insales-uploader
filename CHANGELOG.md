@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.13.1](https://github.com/brainmurder/insales-uploader/tree/v0.13.1)
+
+**Fixed bugs:**
+
+— Исправлено сохранение файлов.
+
 ## [0.13.0](https://github.com/brainmurder/insales-uploader/tree/v0.13.0)
 
 — Повышение скорости загрузки редактируемых файлов.
