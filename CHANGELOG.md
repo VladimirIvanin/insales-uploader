@@ -1,4 +1,11 @@
 # Change Log
+## [0.14.0](https://github.com/brainmurder/insales-uploader/tree/v0.13.2)
+
+**Fixed bugs:**
+
+— Добавлено уведомление об ошибки при скачивании файла.
+
+— Исправление нейминга метода.
 
 ## [0.13.1](https://github.com/brainmurder/insales-uploader/tree/v0.13.1)
 
