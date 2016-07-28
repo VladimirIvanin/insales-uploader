@@ -1,12 +1,12 @@
 # Change Log
 
-## [0.12.2](https://github.com/brainmurder/insales-uploader/tree/v0.13.0)
+## [0.12.2](https://github.com/brainmurder/insales-uploader/tree/v0.12.2)
 
 **Fixed bugs:**
 
 — Исправлено поведение при правки сниппетов и шаблонов с одинаковым именем.
 
-## [0.12.1](https://github.com/brainmurder/insales-uploader/tree/v0.13.0)
+## [0.12.1](https://github.com/brainmurder/insales-uploader/tree/v0.12.1)
 
 **Fixed bugs:**
 
