@@ -1,5 +1,5 @@
 # Change Log
-## [0.14.0](https://github.com/brainmurder/insales-uploader/tree/v0.13.2)
+## [0.14.0](https://github.com/brainmurder/insales-uploader/tree/v0.14.0)
 
 **Fixed bugs:**
 
