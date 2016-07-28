@@ -1,6 +1,8 @@
 # InSales uploader
 Менеджер ассетов для платформы [InSales](http://www.insales.ru/).
 
+[![npm version](https://badge.fury.io/js/insales-uploader.svg)](https://badge.fury.io/js/insales-uploader)
+
 ## Установка
 
 ```
