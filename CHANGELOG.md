@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.13.0](https://github.com/brainmurder/insales-uploader/tree/v0.13.0)
+
+— Повышение скорости загрузки редактируемых файлов.
+
 ## [0.12.3](https://github.com/brainmurder/insales-uploader/tree/v0.12.3)
 
 **Fixed bugs:**
@@ -12,7 +16,7 @@
 
 — Исправлено поведение при правки сниппетов и шаблонов с одинаковым именем.
 
-## [0.12.1](https://github.com/brainmurder/insales-uploader/tree/v0.12.1ма)
+## [0.12.1](https://github.com/brainmurder/insales-uploader/tree/v0.12.1)
 
 **Fixed bugs:**
 
