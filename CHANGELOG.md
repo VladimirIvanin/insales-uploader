@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.14.3](https://github.com/brainmurder/insales-uploader/tree/v0.14.3)
+
+— Увеличена скорость загрузки темы.
+
 ## [0.14.2](https://github.com/brainmurder/insales-uploader/tree/v0.14.2)
 
 **Fixed bugs:**
