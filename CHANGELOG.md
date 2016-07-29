@@ -1,4 +1,11 @@
 # Change Log
+
+## [0.14.2](https://github.com/brainmurder/insales-uploader/tree/v0.14.2)
+
+**Fixed bugs:**
+
+— Исправление обновления ассетов.
+
 ## [0.14.1](https://github.com/brainmurder/insales-uploader/tree/v0.14.1)
 
 **Fixed bugs:**
