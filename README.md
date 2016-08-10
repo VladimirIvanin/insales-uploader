@@ -18,10 +18,12 @@ var InsalesUploader = require('insales-uploader');
 
 // Настройки
 var option = {
-  id: '0123456798',
-  token: '0123456798',
-  url: 'shop-41324.myinsales.ru',
-  http: false,
+  account: {
+    id: '0123456798',
+    token: '0123456798',
+    url: 'shop-41324.myinsales.ru',
+    http: false
+  },
   theme: {
     id: '123456',
     root: 'my-shop',
