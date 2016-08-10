@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.16.0](https://github.com/brainmurder/insales-uploader/tree/v0.16.0)
+
+— Удален метод release.
+
+— Backup сохраняется в zip, каталоги внутри папки backup перезаписываются с сервера.
+
 ## [0.15.1](https://github.com/brainmurder/insales-uploader/tree/v0.15.1)
 
 — Добавлен метод release.
