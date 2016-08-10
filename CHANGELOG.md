@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.15.0](https://github.com/brainmurder/insales-uploader/tree/v0.15.0)
+## [0.15.1](https://github.com/brainmurder/insales-uploader/tree/v0.15.1)
 
 — Добавлен метод release.
 
