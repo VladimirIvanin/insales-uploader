@@ -30,7 +30,7 @@ var option = {
     backup: 'zip',
     update: true,
     startBackup: true
-  },
+  }
 }
 
 // Инициализация
