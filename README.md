@@ -7,7 +7,7 @@
 ## Установка
 
 ```
-npm install insales-uploader --save
+npm install insales-uploader --save-dev
 ```
 
 ## Пример
@@ -39,6 +39,9 @@ InsalesUp.stream()
 
 // Метод вызывает загрузку темы в папку backup
 InsalesUp.backup()
+
+// Метод вызывает загрузку темы в папку release с созданием архива
+InsalesUp.release()
 
 ```
 

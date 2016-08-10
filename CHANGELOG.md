@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.15.0](https://github.com/brainmurder/insales-uploader/tree/v0.15.0)
+
+— Добавлен метод release.
+
+— Переименована папка для шаблонов template -> templates.
+
 ## [0.14.3](https://github.com/brainmurder/insales-uploader/tree/v0.14.3)
 
 — Увеличена скорость загрузки темы.
