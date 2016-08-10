@@ -76,14 +76,14 @@ root/
         |-- media/
         |-- style/
         |-- svg/
+    |-- config/
+    |-- snippets/
+    |-- templates/
     |-- backup/
         |-- config
         |-- media
         |-- snippets
         |-- templates
-    |-- config/
-    |-- snippets/
-    |-- templates/
 ```
 
 ![InSales](https://cdn.rawgit.com/brainmurder/insales-uploader/master/insales.png)
