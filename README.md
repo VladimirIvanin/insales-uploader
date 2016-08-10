@@ -77,6 +77,11 @@ root/
     |-- config/
     |-- snippets/
     |-- templates/
+    |-- release/
+        |-- config
+        |-- media
+        |-- snippets
+        |-- templates
 ```
 
 
