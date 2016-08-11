@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.17.3](https://github.com/brainmurder/insales-uploader/tree/v0.17.3)
+
+— Исправлена обработка ошибок при watch.
+
 ## [0.17.2](https://github.com/brainmurder/insales-uploader/tree/v0.17.2)
 
 — Исправлена дата в названии архива бэкапа.
