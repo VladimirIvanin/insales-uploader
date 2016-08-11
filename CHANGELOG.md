@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.17.1](https://github.com/brainmurder/insales-uploader/tree/v0.17.1)
+
+— Оптимизация отправки изменений на сервер.
+
 ## [0.17.0](https://github.com/brainmurder/insales-uploader/tree/v0.17.0)
 
 — Новый способ записи настроек.
