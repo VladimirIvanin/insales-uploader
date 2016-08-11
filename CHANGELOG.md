@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.17.2](https://github.com/brainmurder/insales-uploader/tree/v0.17.2)
+
+— Исправлена дата в названии архива бэкапа.
+
+— Добавлен вывод ссылки на превью темы в консоль в методе download.
+
+
 ## [0.17.1](https://github.com/brainmurder/insales-uploader/tree/v0.17.1)
 
 — Оптимизация отправки изменений на сервер.
