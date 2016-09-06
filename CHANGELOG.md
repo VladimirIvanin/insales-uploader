@@ -4,7 +4,7 @@
 
 — Добавлена настройка «assets», при значении false работа с медиа файлами ведется через папку media.
 
-## [0.17.3](https://github.com/brainmurder/insales-uploader/tree/v0.17.3)
+## 0.17.3
 
 — Исправлена обработка ошибок при watch.
 
