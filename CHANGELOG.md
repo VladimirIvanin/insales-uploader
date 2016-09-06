@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.17.4](https://github.com/brainmurder/insales-uploader/tree/v0.17.3)
+## [0.17.4](https://github.com/brainmurder/insales-uploader/tree/v0.17.4)
 
 — Добавлена настройка «assets», при значении false работа с медиа файлами ведется через папку media.
 
