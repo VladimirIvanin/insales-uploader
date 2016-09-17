@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.0](https://github.com/brainmurder/insales-uploader/tree/v0.18.0)
+
+— Добавлена синхронизация папок 'media' и 'assets'.
+
 ## [0.17.6](https://github.com/brainmurder/insales-uploader/tree/v0.17.6)
 
 — Правки нейминга свойств.

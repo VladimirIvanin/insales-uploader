@@ -29,7 +29,6 @@ var option = {
     root: 'my-shop',
     backup: 'zip',
     update: true,
-    assets: true,
     startBackup: true
   }
 }
@@ -63,7 +62,6 @@ InsalesUp.backupToZip()
 * http — если в админ панели нет поддержки https, следует выставить значение - true;
 * root — корнеевая папка для сохранения темы;
 * update — при значении 'true' локальные файлы будут перезаписываться при повторной загрузке;
-* assets — при значении 'false' stream медиа файлов происходит через папку media;
 * startBackup — при значении 'true' во время загрузки темы через метод **download** в папке 'backup' будут сохранятся резервные копии темы.
 * backup — 'zip' или 'simple', если zip то создаются архивы.
 
@@ -81,6 +79,7 @@ root/
         |-- style/
         |-- svg/
     |-- config/
+    |-- media/
     |-- snippets/
     |-- templates/
     |-- backup/
