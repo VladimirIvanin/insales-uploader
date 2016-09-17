@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.17.6](https://github.com/brainmurder/insales-uploader/tree/v0.17.6)
+
+— Правки нейминга свойств.
+
 ## [0.17.5](https://github.com/brainmurder/insales-uploader/tree/v0.17.5)
 
 — Исправление создания директорий.
