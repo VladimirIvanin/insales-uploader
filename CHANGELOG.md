@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.18.1](https://github.com/brainmurder/insales-uploader/tree/v0.18.1)
+## [0.18.2](https://github.com/brainmurder/insales-uploader/tree/v0.18.2)
 
 — Добавлен метод для сортировки аасетов из папки media.
 
