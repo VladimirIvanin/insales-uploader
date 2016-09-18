@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.1](https://github.com/brainmurder/insales-uploader/tree/v0.18.1)
+
+— Добавлен метод для сортировки аасетов из папки media.
+
 ## [0.18.0](https://github.com/brainmurder/insales-uploader/tree/v0.18.0)
 
 — Добавлена синхронизация папок 'media' и 'assets'.

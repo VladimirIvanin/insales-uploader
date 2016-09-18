@@ -48,6 +48,9 @@ InsalesUp.backup()
 // Метод вызывает загрузку темы в папку backup с созданием архива
 InsalesUp.backupToZip()
 
+// Метод для сортировки аасетов из папки media
+InsalesUp.initAssets()
+
 ```
 
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
