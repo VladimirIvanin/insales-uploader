@@ -1,12 +1,16 @@
 # Change Log
 
+## [0.18.4](https://github.com/brainmurder/insales-uploader/tree/v0.18.4)
+
+— Оптимизация дублирующихся запросов.
+
 ## [0.18.3](https://github.com/brainmurder/insales-uploader/tree/v0.18.3)
 
 — Исправление конфликта сниппетов и шаблонов с одинаковым именем.
 
 ## [0.18.2](https://github.com/brainmurder/insales-uploader/tree/v0.18.2)
 
-— Добавлен метод для сортировки аасетов из папки media.
+— Добавлен метод для сортировки аcсетов из папки media.
 
 ## [0.18.0](https://github.com/brainmurder/insales-uploader/tree/v0.18.0)
 
