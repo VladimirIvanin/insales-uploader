@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.8](https://github.com/brainmurder/insales-uploader/tree/v0.18.8)
+
+— Добавлен метод diffLocalAssets.
+
 ## [0.18.7](https://github.com/brainmurder/insales-uploader/tree/v0.18.7)
 
 — Бэкапы хранятся только в zip.

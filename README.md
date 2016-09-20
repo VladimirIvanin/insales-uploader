@@ -47,6 +47,9 @@ InsalesUp.backup()
 // Метод для сортировки аасетов из папки media
 InsalesUp.initAssets()
 
+// Метод сравнивает список файлов на сервере со списком в локальной копии
+InsalesUp.diffLocalAssets()
+
 ```
 
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
