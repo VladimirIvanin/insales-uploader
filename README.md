@@ -27,7 +27,6 @@ var option = {
   theme: {
     id: '123456',
     root: 'my-shop',
-    backup: 'zip',
     update: true,
     startBackup: true
   }
@@ -42,11 +41,8 @@ InsalesUp.download()
 // Метод вызывает отслеживание изменений в файлах
 InsalesUp.stream()
 
-// Метод вызывает загрузку темы в папку backup
+// Метод вызывает создание архива с backup
 InsalesUp.backup()
-
-// Метод вызывает загрузку темы в папку backup с созданием архива
-InsalesUp.backupToZip()
 
 // Метод для сортировки аасетов из папки media
 InsalesUp.initAssets()
@@ -66,7 +62,6 @@ InsalesUp.initAssets()
 * root — корнеевая папка для сохранения темы;
 * update — при значении 'true' локальные файлы будут перезаписываться при повторной загрузке;
 * startBackup — при значении 'true' во время загрузки темы через метод **download** в папке 'backup' будут сохранятся резервные копии темы.
-* backup — 'zip' или 'simple', если zip то создаются архивы.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
@@ -86,10 +81,6 @@ root/
     |-- snippets/
     |-- templates/
     |-- backup/
-        |-- config
-        |-- media
-        |-- snippets
-        |-- templates
 ```
 
 ![InSales](https://cdn.rawgit.com/brainmurder/insales-uploader/master/insales.png)
