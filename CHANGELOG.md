@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.5](https://github.com/brainmurder/insales-uploader/tree/v0.18.5)
+
+— Оптимизация отслеживания изменений в файлах.
+
 ## [0.18.4](https://github.com/brainmurder/insales-uploader/tree/v0.18.4)
 
 — Оптимизация дублирующихся запросов.
