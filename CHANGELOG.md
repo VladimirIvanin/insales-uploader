@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.18.8](https://github.com/brainmurder/insales-uploader/tree/v0.18.8)
+## [0.18.9](https://github.com/brainmurder/insales-uploader/tree/v0.18.9)
 
 — Добавлен метод diffLocalAssets.
 
