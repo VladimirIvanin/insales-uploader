@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.10](https://github.com/brainmurder/insales-uploader/tree/v0.18.10)
+
+— Добавлена проверка на разницу файлов перед запуском стрима.
+
 ## [0.18.9](https://github.com/brainmurder/insales-uploader/tree/v0.18.9)
 
 — Добавлен метод diffLocalAssets.
