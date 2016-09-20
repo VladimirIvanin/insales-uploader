@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.7](https://github.com/brainmurder/insales-uploader/tree/v0.18.7)
+
+— Бэкапы хранятся только в zip.
+
 ## [0.18.6](https://github.com/brainmurder/insales-uploader/tree/v0.18.6)
 
 — Оптимизация отслеживания изменений в файлах.
