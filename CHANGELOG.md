@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.18.11](https://github.com/brainmurder/insales-uploader/tree/v0.18.11)
+
+— Добавлено уведомление об отсутсвующих файлах в локальной версии темы.
+
 ## [0.18.10](https://github.com/brainmurder/insales-uploader/tree/v0.18.10)
 
 — Добавлена проверка на разницу файлов перед запуском стрима.
