@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.0](https://github.com/brainmurder/insales-uploader/tree/v0.19.0)
+
+— Добавлен метод updateListThemes, добавлено уведомление о статусе темы.
+
 ## [0.18.11](https://github.com/brainmurder/insales-uploader/tree/v0.18.11)
 
 — Добавлено уведомление об отсутсвующих файлах в локальной версии темы.
