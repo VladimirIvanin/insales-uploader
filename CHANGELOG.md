@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.1](https://github.com/brainmurder/insales-uploader/tree/v0.19.1)
+
+— Добавлено открытие браузера при старте стрима.
+
 ## [0.19.0](https://github.com/brainmurder/insales-uploader/tree/v0.19.0)
 
 — Добавлен метод updateListThemes, добавлено уведомление о статусе темы.

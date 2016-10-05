@@ -29,6 +29,12 @@ var option = {
     root: 'my-shop',
     update: true,
     startBackup: true
+  },
+  tools:{
+    openBrowser: {
+      start: true,
+      app: 'firefox'
+    }
   }
 }
 
@@ -52,6 +58,7 @@ InsalesUp.download()
 
 `diffLocalAssets` — Метод сравнивает список файлов на сервере со списком в локальной копии
 
+`openBrowser` — открыть сайт в браузере
 
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
 
@@ -69,6 +76,9 @@ InsalesUp.download()
 * root — корнеевая папка для сохранения темы;
 * update — при значении 'true' локальные файлы будут перезаписываться при повторной загрузке;
 * startBackup — при значении 'true' во время загрузки темы через метод **download** в папке 'backup' будут сохранятся резервные копии темы.
+
+#### tools
+* openBrowser — открытие браузера при запуске метода `stream`. Чтобы включить данную опцию, в объект свойства нужно добавить `start: true`. Будет открыт браузер поумолчанию. Для старта сайта в определенном браузере, нужно добавить свойство `app`. Свойство `app` специфично работает в разных операционных системах, например чтобы открыть `Chrome`, пользователям MacOs нужно указать `google chrome`, пользователям Linux `google-chrome`, пользователям Windows `chrome`.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 

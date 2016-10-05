@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "InSales assets manager",
   "homepage": "https://github.com/brainmurder/insales-uploader",
   "main": "dist/index.js",
@@ -32,6 +32,7 @@
   ],
   "dependencies": {
     "chokidar": "^1.6.0",
+    "opn": "^4.0.2",
     "diff": "^3.0.0",
     "insales": "^1.4.0",
     "isbinaryfile": "^3.0.0",
