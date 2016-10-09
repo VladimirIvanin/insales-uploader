@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.3](https://github.com/brainmurder/insales-uploader/tree/v0.19.3)
+
+— Добавлен метод upload.
+
 ## [0.19.2](https://github.com/brainmurder/insales-uploader/tree/v0.19.2)
 
 — Добавлен Browsersync для синхронизации сайта и изменений в файлах.
