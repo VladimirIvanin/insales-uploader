@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.19.11](https://github.com/brainmurder/insales-uploader/tree/v0.19.11)
+## [0.19.12](https://github.com/brainmurder/insales-uploader/tree/v0.19.12)
 
 — Добавлен метод triggerFile.
 
