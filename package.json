@@ -1,8 +1,8 @@
 {
   "name": "insales-uploader",
-  "version": "0.19.5",
+  "version": "0.19.6",
   "description": "InSales assets manager",
-  "homepage": "https://github.com/brainmurder/insales-uploader",
+  "homepage": "https://github.com/VladimirIvanin/insales-uploader",
   "main": "dist/index.js",
   "scripts": {
     "compile": "babel --presets es2015 -d dist/ ./lib",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/brainmurder/insales-uploader.git"
+    "url": "git://github.com/VladimirIvanin/insales-uploader.git"
   },
   "license": "MIT",
   "author": "Ivanin Vladimir",
