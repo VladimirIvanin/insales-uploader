@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.5](https://github.com/brainmurder/insales-uploader/tree/v0.19.5)
+
+— Обновление настроек Browsersync.
+
 ## [0.19.4](https://github.com/brainmurder/insales-uploader/tree/v0.19.4)
 
 — Обновление описания, добавлен таймаут на обновление браузера.
