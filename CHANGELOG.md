@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.7](https://github.com/brainmurder/insales-uploader/tree/v0.19.7)
+
+— Исправления метода stream.
+
 ## [0.19.6](https://github.com/brainmurder/insales-uploader/tree/v0.19.6)
 
 — Обновление настроек Browsersync.
