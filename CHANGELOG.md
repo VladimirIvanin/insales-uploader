@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.11](https://github.com/brainmurder/insales-uploader/tree/v0.19.11)
+
+— Добавлен метод triggerFile.
+
 ## [0.19.7](https://github.com/brainmurder/insales-uploader/tree/v0.19.7)
 
 — Исправления метода stream.
