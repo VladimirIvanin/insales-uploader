@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.19.15",
+  "version": "0.19.16",
   "description": "InSales assets manager",
   "homepage": "https://github.com/VladimirIvanin/insales-uploader",
   "main": "dist/index.js",
@@ -33,6 +33,7 @@
   "dependencies": {
     "browser-sync": "^2.17.1",
     "chokidar": "^1.6.0",
+    "cli-color": "^1.1.0",
     "diff": "^3.0.0",
     "insales": "^1.4.0",
     "isbinaryfile": "^3.0.0",

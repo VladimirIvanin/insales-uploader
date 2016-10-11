@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.16](https://github.com/brainmurder/insales-uploader/tree/v0.19.16)
+
+— Добавлена цветовая схема.
+
 ## [0.19.15](https://github.com/brainmurder/insales-uploader/tree/v0.19.15)
 
 — Исправления метода updateListThemes.
