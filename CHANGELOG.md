@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.15](https://github.com/brainmurder/insales-uploader/tree/v0.19.15)
+
+— Исправления метода updateListThemes.
+
 ## [0.19.13](https://github.com/brainmurder/insales-uploader/tree/v0.19.13)
 
 — Исправления метода stream.
