@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.17](https://github.com/brainmurder/insales-uploader/tree/v0.19.17)
+
+— Обработка 404 статуса.
+
 ## [0.19.16](https://github.com/brainmurder/insales-uploader/tree/v0.19.16)
 
 — Добавлена цветовая схема.
