@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.19.19](https://github.com/brainmurder/insales-uploader/tree/v0.19.19)
+
+— Добавлен progress-bar на скачивание темы.
+
+— Добавлен debounce для BrowserSync.
+
 ## [0.19.18](https://github.com/brainmurder/insales-uploader/tree/v0.19.18)
 
 — Добавлена проверка на спецсимвол \x03.
