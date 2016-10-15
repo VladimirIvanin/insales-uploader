@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.19.19](https://github.com/brainmurder/insales-uploader/tree/v0.19.19)
+## [0.19.20](https://github.com/brainmurder/insales-uploader/tree/v0.19.20)
 
 — Добавлен progress-bar на скачивание темы.
 
