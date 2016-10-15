@@ -1,10 +1,11 @@
 # Change Log
 
-## [0.19.19](https://github.com/brainmurder/insales-uploader/tree/v0.19.19)
+## [0.19.20](https://github.com/brainmurder/insales-uploader/tree/v0.19.20)
 
-— Добавлен progress-bar на скачивание темы.
+— Добавлен progress-bar на метод download.
 
 — Добавлен debounce для BrowserSync.
+
 
 ## [0.19.18](https://github.com/brainmurder/insales-uploader/tree/v0.19.18)
 
