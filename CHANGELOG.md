@@ -1,8 +1,8 @@
 # Change Log
 
-## [0.19.21](https://github.com/brainmurder/insales-uploader/tree/v0.19.21)
+## [0.19.22](https://github.com/brainmurder/insales-uploader/tree/v0.19.22)
 
-— Фиксирование ошибок при сравнивании ассетов.
+— Добавлен метод pushTheme.
 
 ## [0.19.20](https://github.com/brainmurder/insales-uploader/tree/v0.19.20)
 
