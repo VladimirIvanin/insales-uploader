@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.19.22](https://github.com/brainmurder/insales-uploader/tree/v0.19.22)
+## [0.19.23](https://github.com/brainmurder/insales-uploader/tree/v0.19.23)
 
 — Добавлен метод pushTheme.
 
