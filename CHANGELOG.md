@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.21](https://github.com/brainmurder/insales-uploader/tree/v0.19.21)
+
+— Фиксирование ошибок при сравнивании ассетов.
+
 ## [0.19.20](https://github.com/brainmurder/insales-uploader/tree/v0.19.20)
 
 — Добавлен progress-bar на метод download.
