@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.39](https://github.com/brainmurder/insales-uploader/tree/v0.19.39)
+
+— Исправлены недостатки при скачивании файлов.
+
 ## [0.19.38](https://github.com/brainmurder/insales-uploader/tree/v0.19.38)
 
 — Исправление удаления ассета из assets.
