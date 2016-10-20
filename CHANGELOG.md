@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.37](https://github.com/brainmurder/insales-uploader/tree/v0.19.37)
+
+— Исправление копирования ассета из media в assets.
+
 ## [0.19.36](https://github.com/brainmurder/insales-uploader/tree/v0.19.36)
 
 — Исправление загрузки темы через pushTheme.
