@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.19.26](https://github.com/brainmurder/insales-uploader/tree/v0.19.26)
+
+— Исправление загрузки темы через pushTheme.
+
 ## [0.19.25](https://github.com/brainmurder/insales-uploader/tree/v0.19.25)
 
 — Добавлен метод pullTheme.
