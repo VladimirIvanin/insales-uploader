@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.19.24](https://github.com/brainmurder/insales-uploader/tree/v0.19.24)
+## [0.19.25](https://github.com/brainmurder/insales-uploader/tree/v0.19.25)
 
 — Добавлен метод pullTheme.
 
