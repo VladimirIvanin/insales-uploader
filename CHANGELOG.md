@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.20.0](https://github.com/brainmurder/insales-uploader/tree/v0.20.0)
+
+— Обновление пакетов.
+
 ## [0.19.39](https://github.com/brainmurder/insales-uploader/tree/v0.19.39)
 
 — Исправлены недостатки при скачивании файлов.
