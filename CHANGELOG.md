@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.20.1](https://github.com/brainmurder/insales-uploader/tree/v0.20.1)
+
+— Фиксирование ошибок при запуске стрима.
+
 ## [0.20.0](https://github.com/brainmurder/insales-uploader/tree/v0.20.0)
 
 — Обновление пакетов.
