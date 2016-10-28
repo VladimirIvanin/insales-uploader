@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.20.5](https://github.com/brainmurder/insales-uploader/tree/v0.20.5)
+
+— Добавлено уведомление о новых версиях.
+
 ## [0.20.4](https://github.com/brainmurder/insales-uploader/tree/v0.20.4)
 
 — Обновление модуля для скачивания файлов по http.
