@@ -1,8 +1,10 @@
 # Change Log
 
-## [0.20.6]
+## [0.20.7]
 
 — remove => upload для бинарных файлов при их замене.
+
+— setTimeout => delay.
 
 ## [0.20.5](https://github.com/brainmurder/insales-uploader/tree/v0.20.5)
 
