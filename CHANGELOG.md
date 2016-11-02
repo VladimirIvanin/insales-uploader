@@ -1,10 +1,14 @@
 # Change Log
 
-## [0.20.7]
+## [0.21.0]
 
-— remove => upload для бинарных файлов при их замене.
+— setTimeout <=> delay.
 
-— setTimeout => delay.
+— Поддержка абсолютных путей.
+
+— Связь модулей с помощью configstore.
+
+— Обновление архитектуры.
 
 ## [0.20.5](https://github.com/brainmurder/insales-uploader/tree/v0.20.5)
 
