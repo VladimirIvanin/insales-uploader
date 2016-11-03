@@ -31,6 +31,7 @@ var option = {
     startBackup: true
   },
   tools:{
+    debugMode: false,
     openBrowser: {
       start: true,
       app: 'firefox'
@@ -91,6 +92,7 @@ InsalesUp.download()
 #### tools
 * browserSync — синхронизация браузера и изменений в файлах. Синхронизация включается при запуске метода `stream`. Поумолчанию перезагрузка браузера отключена для загружаемых файлов, перезагрузка срабатывает на изменение и удаление. Так же можно указать доп. параметры согласно api [browsersync](https://www.browsersync.io/docs/options). `Возможен редирект на основной домен, в случае редиректов следует отключить в бэк-офисе редирект с поддомена myinsales.ru и в конфиге insales-uploader указать ссылку на поддомен`.
 * openBrowser — открытие браузера при запуске метода `stream`. Чтобы включить данную опцию, в объект свойства нужно добавить `start: true`. Будет открыт браузер поумолчанию. Для старта сайта в определенном браузере, нужно добавить свойство `app`. Свойство `app` специфично работает в разных операционных системах, например чтобы открыть `Chrome`, пользователям MacOs нужно указать `google chrome`, пользователям Linux `google-chrome`, пользователям Windows `chrome`.
+* debugMode — логирование операций.
 
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
