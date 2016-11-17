@@ -95,6 +95,7 @@ InsalesUp.download()
 * debugMode — логирование операций.
 
 > [Интегрированно в Devu](https://github.com/VladimirIvanin/devu)
+
 > [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
 ### Структура папок
