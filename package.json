@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "description": "InSales assets manager",
   "homepage": "https://github.com/VladimirIvanin/insales-uploader",
   "main": "dist/index.js",
@@ -51,6 +51,7 @@
     "progress": "1.1.8",
     "promise": "7.1.1",
     "rmdir": "1.2.0",
+    "stylelint": "^7.10.1",
     "zip-dir": "1.0.2"
   }
 }
