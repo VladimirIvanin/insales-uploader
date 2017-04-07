@@ -49,6 +49,10 @@ var option = {
           cascade: true
       }
     },
+    eslint: {
+      use: true,
+      stopOnFail: true
+    },
     stylelint: {
       use: true,
       stopOnFail: true,
@@ -113,6 +117,7 @@ InsalesUp.download()
 * debugMode — логирование операций.
 * stylelint — линтер стилей, можно добавлять свои настройки согласно api [stylelint](https://stylelint.io/user-guide/rules/). `use` - использовать линтер? `stopOnFail` - останавливать отправление файла на сервер при ошибках?
 * autoprefixer — добавление префиксов к стилям, можно добавлять свои настройки согласно api [autoprefixer](https://github.com/postcss/autoprefixer). `use` - использовать autoprefixer?
+* eslint — js линтер, можно добавлять свои настройки согласно api [ESLint ](http://eslint.org/docs/rules/). `use` - использовать ESLint?
 
 > [Интегрированно в Devu](https://github.com/VladimirIvanin/devu)
 

@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.25.0]
+
+— Добавлен ESLint.
+
 ## [0.24.0]
 
 — Добавлен autoprefixer.
