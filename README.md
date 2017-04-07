@@ -2,7 +2,7 @@
 Менеджер ассетов для платформы [InSales](http://www.insales.ru/).
 
 [![npm version](https://badge.fury.io/js/insales-uploader.svg)](https://badge.fury.io/js/insales-uploader)
-[![Dependency Status](https://gemnasium.com/badges/github.com/brainmurder/insales-uploader.svg)](https://gemnasium.com/github.com/brainmurder/insales-uploader)
+[![Dependency Status](https://gemnasium.com/badges/github.com/VladimirIvanin/insales-uploader.svg)](https://gemnasium.com/github.com/VladimirIvanin/insales-uploader)
 
 ## Установка
 
