@@ -31,6 +31,7 @@
     "dist"
   ],
   "dependencies": {
+    "autoprefixer": "^6.7.7",
     "browser-sync": "2.17.5",
     "chokidar": "1.6.1",
     "cli-color": "1.1.0",
@@ -50,6 +51,7 @@
     "path": "0.12.7",
     "progress": "1.1.8",
     "promise": "7.1.1",
+    "postcss": "^5.2.16",
     "rmdir": "1.2.0",
     "stylelint": "^7.10.1",
     "zip-dir": "1.0.2"
