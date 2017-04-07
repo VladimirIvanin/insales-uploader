@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.24.0]
+
+— Добавлен autoprefixer.
+
 ## [0.23.0]
 
 — Добавлен stylelint.

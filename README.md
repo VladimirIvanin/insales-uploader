@@ -42,6 +42,13 @@ var option = {
       uploadRestart: false,
       browser: 'firefox'
     },
+    autoprefixer: {
+      use: true,
+      config: {
+          browsers: ['last 20 versions'],
+          cascade: true
+      }
+    },
     stylelint: {
       use: true,
       stopOnFail: true,
@@ -105,6 +112,7 @@ InsalesUp.download()
 * openBrowser — открытие браузера при запуске метода `stream`. Чтобы включить данную опцию, в объект свойства нужно добавить `start: true`. Будет открыт браузер поумолчанию. Для старта сайта в определенном браузере, нужно добавить свойство `app`. Свойство `app` специфично работает в разных операционных системах, например чтобы открыть `Chrome`, пользователям MacOs нужно указать `google chrome`, пользователям Linux `google-chrome`, пользователям Windows `chrome`.
 * debugMode — логирование операций.
 * stylelint — линтер стилей, можно добавлять свои настройки согласно api [stylelint](https://stylelint.io/user-guide/rules/). `use` - использовать линтер? `stopOnFail` - останавливать отправление файла на сервер при ошибках?
+* autoprefixer — добавление префиксов к стилям, можно добавлять свои настройки согласно api [autoprefixer](https://github.com/postcss/autoprefixer). `use` - использовать autoprefixer?
 
 > [Интегрированно в Devu](https://github.com/VladimirIvanin/devu)
 
