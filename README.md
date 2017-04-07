@@ -45,7 +45,7 @@ var option = {
     autoprefixer: {
       use: true,
       config: {
-          browsers: ['last 20 versions'],
+          browsers: ['last 21 versions'],
           cascade: true
       }
     },
