@@ -49,9 +49,10 @@
     "node-notifier": "^5.1.2",
     "opn": "4.0.2",
     "path": "0.12.7",
+    "postcss": "^5.2.16",
+    "postcss-scss": "^0.4.1",
     "progress": "1.1.8",
     "promise": "7.1.1",
-    "postcss": "^5.2.16",
     "rmdir": "1.2.0",
     "stylelint": "^7.10.1",
     "zip-dir": "1.0.2"
