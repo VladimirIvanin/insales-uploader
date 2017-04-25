@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.25.2",
+  "version": "0.26.0",
   "description": "InSales assets manager",
   "homepage": "https://github.com/VladimirIvanin/insales-uploader",
   "main": "dist/index.js",
@@ -47,6 +47,7 @@
     "latest-version": "3.1.0",
     "lodash": "4.17.4",
     "mkdirp": "0.5.1",
+    "moment": "^2.18.1",
     "node-notifier": "^5.1.2",
     "opn": "4.0.2",
     "path": "0.12.7",
