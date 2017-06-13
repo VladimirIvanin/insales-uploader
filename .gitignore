@@ -2,3 +2,4 @@ node_modules
 dist
 test*
 npm-debug.log*
+package-lock.json
