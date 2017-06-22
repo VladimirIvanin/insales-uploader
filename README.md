@@ -93,6 +93,8 @@ InsalesUp.download()
 
 `openBrowser` — открыть сайт в браузере
 
+`triggerFile(event, path)` - добавить/удалить/изменить файл на сервере. Event - строка события, что произошло с файлом (add/change/unlink). Path - абсолютный путь к файлу
+
 > Внимание! Методы *download* и *stream* не следует запускать одновременно!
 
 
