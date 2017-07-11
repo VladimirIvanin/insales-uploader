@@ -4,6 +4,10 @@
 [![npm version](https://badge.fury.io/js/insales-uploader.svg)](https://badge.fury.io/js/insales-uploader)
 [![Dependency Status](https://gemnasium.com/badges/github.com/VladimirIvanin/insales-uploader.svg)](https://gemnasium.com/github.com/VladimirIvanin/insales-uploader)
 
+> [Минимальный конфиг Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
+
+> [Консольный клиент для InSales uploader](https://github.com/VladimirIvanin/devu)
+
 ## Установка
 
 ```
@@ -120,10 +124,6 @@ InsalesUp.download()
 * stylelint — линтер стилей, можно добавлять свои настройки согласно api [stylelint](https://stylelint.io/user-guide/rules/). `use` - использовать линтер? `stopOnFail` - останавливать отправление файла на сервер при ошибках?
 * autoprefixer — добавление префиксов к стилям, можно добавлять свои настройки согласно api [autoprefixer](https://github.com/postcss/autoprefixer). `use` - использовать autoprefixer?
 * eslint — js линтер, можно добавлять свои настройки согласно api [ESLint ](http://eslint.org/docs/rules/). `use` - использовать ESLint?
-
-> [Интегрированно в Devu](https://github.com/VladimirIvanin/devu)
-
-> [Пример использования **insales-uploader** с Gulp.js](https://github.com/brainmurder/InSales-uploader-gulp-test)
 
 ### Структура папок
 
