@@ -1,8 +1,8 @@
 {
   "name": "insales-uploader",
-  "version": "0.27.1",
+  "version": "0.27.2",
   "description": "InSales assets manager",
-  "homepage": "https://github.com/VladimirIvanin/insales-uploader",
+  "homepage": "https://github.com/insales/insales-uploader",
   "main": "dist/index.js",
   "scripts": {
     "compile": "babel --presets es2015 -d dist/ ./lib",
@@ -36,7 +36,7 @@
     "chokidar": "^1.7.0",
     "cli-color": "^1.2.0",
     "compare-versions": "^3.0.1",
-    "cp-file": "^4.2.0",
+    "cp-file": "^5.0.0",
     "delay": "^2.0.0",
     "diff": "^3.2.0",
     "download": "^6.2.2",
