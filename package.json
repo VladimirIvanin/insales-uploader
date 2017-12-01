@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.27.2",
+  "version": "0.27.3",
   "description": "InSales assets manager",
   "homepage": "https://github.com/insales/insales-uploader",
   "main": "dist/index.js",
