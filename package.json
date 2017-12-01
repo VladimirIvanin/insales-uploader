@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.27.2",
+  "version": "0.27.3",
   "description": "InSales assets manager",
   "homepage": "https://github.com/insales/insales-uploader",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/VladimirIvanin/insales-uploader.git"
+    "url": "git://github.com/insales/insales-uploader.git"
   },
   "license": "MIT",
   "author": "Ivanin Vladimir",
@@ -43,6 +43,7 @@
     "eslint": "^4.0.0",
     "events": "^1.1.1",
     "insales": "^1.4.0",
+    "is-online": "^7.0.0",
     "isbinaryfile": "^3.0.2",
     "latest-version": "^3.1.0",
     "lodash": "^4.17.4",
@@ -51,12 +52,12 @@
     "node-notifier": "^5.1.2",
     "opn": "^5.1.0",
     "path": "^0.12.7",
-    "postcss": "^5.2.16",
-    "postcss-scss": "^0.4.1",
+    "postcss": "^6.0.14",
+    "postcss-scss": "^1.0.2",
     "progress": "^2.0.0",
     "promise": "^7.1.1",
     "rmdir": "^1.2.0",
-    "stylelint": "^7.10.1",
+    "stylelint": "^8.3.1",
     "zip-dir": "^1.0.2"
   }
 }

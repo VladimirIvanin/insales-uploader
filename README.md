@@ -36,15 +36,14 @@ var option = {
     startBackup: true
   },
   tools:{
+    postCssPlugins: [], // [require('postcss-discard-duplicates')(), require('postcss-combine-duplicated-selectors')()]
     debugMode: false,
     openBrowser: {
-      start: true,
-      app: 'firefox'
+      start: true
     },
     browserSync: {
       start: false,
-      uploadRestart: false,
-      browser: 'firefox'
+      uploadRestart: false
     },
     autoprefixer: {
       use: true,
