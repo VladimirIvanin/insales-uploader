@@ -33,7 +33,6 @@
   "dependencies": {
     "autoprefixer": "^7.2.5",
     "browser-sync": "^2.23.5",
-    "chokidar": "^1.7.0",
     "cli-color": "^1.2.0",
     "compare-versions": "^3.0.1",
     "cp-file": "^5.0.0",
@@ -42,6 +41,7 @@
     "download": "^6.2.2",
     "eslint": "^4.15.0",
     "events": "^1.1.1",
+    "glob-watcher": "^5.0.0",
     "insales": "^1.4.0",
     "is-online": "^7.0.0",
     "isbinaryfile": "^3.0.2",
@@ -58,6 +58,7 @@
     "promise": "^8.0.1",
     "rmdir": "^1.2.0",
     "stylelint": "^8.4.0",
+    "upath": "^1.0.2",
     "zip-dir": "^1.0.2"
   }
 }
