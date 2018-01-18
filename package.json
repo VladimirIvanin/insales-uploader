@@ -1,6 +1,6 @@
 {
   "name": "insales-uploader",
-  "version": "0.27.5",
+  "version": "0.27.6",
   "description": "InSales assets manager",
   "homepage": "https://github.com/insales/insales-uploader",
   "main": "dist/index.js",
@@ -33,7 +33,7 @@
   "dependencies": {
     "autoprefixer": "^7.2.5",
     "browser-sync": "^2.23.5",
-    "chokidar": "^2.0.0",
+    "chokidar": "^1.7.0",
     "cli-color": "^1.2.0",
     "compare-versions": "^3.0.1",
     "cp-file": "^5.0.0",
